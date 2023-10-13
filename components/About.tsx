@@ -14,8 +14,8 @@ const About = () => {
             I am a Full Stack developer who is passionate about writing{" "}
           </span>
           <span className="font-bold">
-            code and try to find solutions for daily basis problems using code,
-            I also love Traveling and Gaming.{" "}
+            {`code and try to find solutions for daily basis problems using code,
+            I also love Traveling and Gaming.`}
           </span>
           <div>
             <a

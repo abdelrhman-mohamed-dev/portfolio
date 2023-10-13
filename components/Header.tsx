@@ -20,7 +20,7 @@ export default function Header() {
       <div className="px-8 lg:px-10 min-h-fit mx-auto text-center items-center justify-center flex">
         <div className="w-full h-fit space-y-10">
           <h2 className="font-medium w-full text-2xl justify-center lg:justify-start mx-auto lg:mx-0 flex gap-2 flex-wrap">
-            <span>Hi I'm </span>
+            <span>{"Hi I'm "}</span>
             <Lottie animationData={handAnimation} loop={true} className="w-8" />
             <span className="text-green-400">Abdelrhman Muhammad</span>
           </h2>

@@ -9,7 +9,7 @@ import booksAnimation from "@/animations/books.json";
 export default function Hero() {
   return (
     <div className="text-2xl md:text-3xl xl:text-5xl 2xl:text-6xl font-light w-4/6 mx-auto text-center leading-5 lg:leading-relaxed flex flex-wrap relative z-50 gap-4 items-center justify-center">
-      <span className="text-gray-500">I'm a</span>
+      <span className="text-gray-500">{"I'm a"}</span>
       <span className="font-bold">
         <span className="text-green-400">Full Stack</span> Developer
       </span>
